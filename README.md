@@ -12,3 +12,9 @@
   - Matrix
   - OpenStreetMap in Kaohsiung or Berlin
 - 📫 How to reach me: https://chrpaul.de/about
+
+## Issue wishlish
+- For my blog at chrpaul.de
+  - https://github.com/alecthomas/chroma/issues/884
+  - https://github.com/alecthomas/chroma/issues/939
+  - https://github.com/alecthomas/chroma/issues/940
