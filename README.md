@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on
   - Matrix Wrench
 - 🤔 I’m looking for help with
-  - Design for my Matrix Wrench](https://gitlab.com/jaller94/matrix-wrench)
+  - Design for [Matrix Wrench](https://gitlab.com/jaller94/matrix-wrench)
   - Funding for [Polychat](https://polychat.de/)
 - 💬 Ask me about
   - Matrix
