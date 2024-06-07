@@ -16,5 +16,3 @@
 ## Issue wishlish
 - For my blog at chrpaul.de
   - https://github.com/alecthomas/chroma/issues/884
-  - https://github.com/alecthomas/chroma/issues/939
-  - https://github.com/alecthomas/chroma/issues/940
