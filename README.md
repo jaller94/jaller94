@@ -1,10 +1,10 @@
 - 🔭 I’m currently working on
-  - Matrix.org clients, bridges and bots 
+  - Matrix.org clients, bridges, widgets and bots 
 - 🌱 I’m currently learning
-  - Kotlin
   - Traditional Chinese
 - 👯 I’m looking to collaborate on
   - Matrix Wrench
+  - Web of Things Wrench
 - 🤔 I’m looking for help with
   - Design for [Matrix Wrench](https://gitlab.com/jaller94/matrix-wrench)
   - Funding for [Polychat](https://polychat.de/)
