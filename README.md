@@ -1,7 +1,5 @@
 - 🔭 I’m currently working on
   - Matrix.org clients, bridges, widgets and bots 
-- 🌱 I’m currently learning
-  - Traditional Chinese
 - 👯 I’m looking to collaborate on
   - Matrix Wrench
   - Web of Things Wrench
@@ -10,7 +8,8 @@
   - Funding for [Polychat](https://polychat.de/)
 - 💬 Ask me about
   - Matrix
-  - OpenStreetMap in Kaohsiung or Berlin
+  - Web of Things
+  - OpenStreetMap
 - 📫 How to reach me: https://chrpaul.de/about
 
 ## Issue wishlish
